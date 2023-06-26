@@ -9,8 +9,8 @@ Full Stack Engineer with over 6 years of experience, fascinated by the intersect
 * 🌍  I'm based in Albuquerque, NM, US 🇺🇸
 * 🖥️  See my portfolio at [Ryo.Dev](http://ryo.dev)
 * ✉️  You can contact me at [hi@ryo.dev](mailto:hi@ryo.dev)
-* 🧠  I'm learning ThreeJS/R3F, OpenAI/ChatGPT, FastAPI, Nuxt & Laravel!
-* 🤝  I'm open to collaborating on Generative Art, Web Apps, or
+* 🧠  I'm learning ThreeJS/R3F, OpenAI/ChatGPT, FastAPI, & RN.
+* 🤝  I'm open to collaborating on Generative Art, Web Apps, or Enterprise Apps.
 * ⚡  🥧 Raspberry Pi Fanatic , ⌨️ Keyboard Collector, 🕹️ Occasional Retro Gamer
 
 <a href="https://www.github.com/ryolambert" target="_blank" rel="noreferrer"><img
